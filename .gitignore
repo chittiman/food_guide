@@ -132,4 +132,4 @@ dmypy.json
 .food_guide_env/
 
 #api_keys_folder
-api_keys
+api_keys/
